@@ -1,1 +1,1 @@
-module github.com/shenderov/HelloKostya
+module github.com/shenderov/HelloGo
