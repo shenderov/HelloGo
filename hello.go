@@ -1,4 +1,4 @@
-package hellokostya // import "github.com/shenderov/HelloKostya"
+package hellogo // import "github.com/shenderov/HelloGo"
 
 import (
 	"fmt"
